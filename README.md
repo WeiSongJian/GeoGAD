@@ -1,1 +1,10 @@
 # GeoGAD
+# dependencies:
+  # PyTorch 
+  - pytorch==1.8.1
+  - cudatoolkit=11.3
+  # Others
+  - numpy==1.20.1
+  - tqdm==4.59.0
+  - torch_scatter==2.0.8
+  - pyro==1.5.0
