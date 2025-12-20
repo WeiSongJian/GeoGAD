@@ -13,7 +13,7 @@
 bash scripts/setup.sh
 ```
 ## Get Data
-We have included the summary data used in our paper—sourced from SAbDab, RAbD, and SKEMPI_V2—in the summaries folder. Please download all structural data from the download page of SAbDab. As SAbDab is updated weekly, you may also obtain the latest summary file directly from its official website.
+We have included the summary data used in our paper—sourced from SAbDab, RAbD, and SKEMPI_V2—in the summaries folder. Please download all structural data from the [download page of SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab/search/?all=true#downloads). As SAbDab is updated weekly, you may also obtain the latest summary file directly from its [official website](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab).
 ## Experiments
 ### K-fold evaluation on SAbDab
 
