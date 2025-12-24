@@ -1,13 +1,12 @@
 # GeoGAD
 ## Dependencies:
   ## PyTorch 
-  - pytorch==1.8.1
-  - cudatoolkit=11.3
+  - pytorch==2.4.1
+  - cudatoolkit=12.6
   ## Others
-  - numpy==1.20.1
-  - tqdm==4.59.0
-  - torch_scatter==2.0.8
-  - pyro==1.5.0
+  - numpy==1.24.4
+  - tqdm==4.67.1
+  - pyro==1.9.1
  ## Before running the code, you need to execute the following script command
 ```
 bash scripts/setup.sh
